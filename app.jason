@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Al Tawfik App",
+    "slug": "al-tawfik-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ossama.tawfikapp"
+    }
+  }
+}
