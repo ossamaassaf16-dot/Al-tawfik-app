@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Tawfiq App",
+    "slug": "Al-tawfik-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.ossama.tawfiqapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5f7e0614-dfce-479c-8276-fb43bc5db1a8"
+      }
+    }
+  }
+}
