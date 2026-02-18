@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Tawfiq App",
+    "slug": "tawfiq-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.ossama.tawfiqapp"
+    }
+  }
+}
